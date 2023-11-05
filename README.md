@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Assembly
 - 📫 How to reach me: Add me on discord: .stormdev
 
+- Languages
+  - ![My most used languages](https://skillicons.dev/icons?i=lua,py,ts,javascript,html,markdown,cs,c,cpp,neovim,rust,dotnet,vimscript,nodejs&perline=7 "My skills at this moment")
 - IDEs
   - ![My IDES](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,vim "IDE(s) that I utilize")
 [![Discord](https://skillicons.dev/icons?i=discord&perline=7)](https://discord.com/users/1151900606265569421)
