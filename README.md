@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Storm.!
-- 👀 I’m interested in Client Modifications and Exploitation of holes in certain games.
-- 🌱 I’m currently learning Assembly
-- 📫 How to reach me: Add me on discord: .stormdev
+I'm no longer alive.
+If you wish to contact me, don't.
 
 - Languages, Scripting Languages & Sub Languages (vimscript, etc.)
   - ![My most used languages](https://skillicons.dev/icons?i=lua,py,ts,javascript,html,markdown,cs,c,cpp,neovim,rust,dotnet,vim,unreal,powershell,linux,nodejs&perline=7 "My skills at this moment")
