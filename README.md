@@ -1,4 +1,3 @@
-I'm no longer alive.
 If you wish to contact me, don't.
 
 - Languages, Scripting Languages & Sub Languages (vimscript, etc.)
